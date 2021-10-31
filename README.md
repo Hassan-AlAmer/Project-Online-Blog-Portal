@@ -28,3 +28,8 @@ You are assigned to a project in which you need to develop a React Redux app for
 - **Redux** should be used to create the app
 
 - **React Redux** binding should be included in the app
+
+## Project Screenshot:
+![Home](https://user-images.githubusercontent.com/92730894/139599976-857a1b5c-774c-4f02-9dda-36a0f1cfc42c.png)
+![Create New Blog](https://user-images.githubusercontent.com/92730894/139599979-70239fbc-8d9f-4d82-a2bf-8eaa1839c6eb.png)
+![Update Blog](https://user-images.githubusercontent.com/92730894/139599978-8f675d7e-9e3c-4c2c-ba83-10ae7563cb97.png)
